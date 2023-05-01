@@ -1,0 +1,1 @@
+export { SWpeople } from "./SWpeople";

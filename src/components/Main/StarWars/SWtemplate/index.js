@@ -1,0 +1,1 @@
+export { SWtemplate } from "./SWtemplate";

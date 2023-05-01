@@ -1,0 +1,17 @@
+.counter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 630px;
+}
+
+.counterCount{
+  margin: 0;
+  padding: 20px;
+}
+
+.counterButtons{
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
